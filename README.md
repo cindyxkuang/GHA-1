@@ -10,7 +10,7 @@ Insert Description Here
 Member | Email | Photo
 --- | --- | ---
 Cindy Kuang | ckuang@stanford.edu | <img src="https://i.imgur.com/OjaDlnK.jpg" alt="Karan Singhal" width="157.5" height="157.5">
-Kat McNeill | katriona@stanford.edu | <img src="https://i.imgur.com/qpkakAD.jpg" alt="Kat McNeill" width="157.5" height="157.5">
+Kat McNeill | katriona@stanford.edu | <img src="https://github.com/cs210/GHA-1/blob/master/resources/kat.JPG" alt="Kat McNeill" width="157.5" height="157.5">
 Divaa Sharma | dsharma7@stanford.edu | <img src="https://i.imgur.com/pebY6bg.jpg" alt="John Kamalu" width="157.5" height="201">
 Neha Sharma  | nesharma@stanford.edu | <img src="https://i.imgur.com/2RB416X.jpg" alt="Sarah Tollman" width="157.5" height="164.4">
 Brittany Truong | btruong2@stanford.edu | <img src="https://i.imgur.com/y6WLV1M.jpg" alt="Alan Flores-Lopez" width="157.5" height="210">
