@@ -22,7 +22,7 @@ Member | Hat | Technical Skills | Non-Technical Skills | Personal Traits | Desir
 Cindy | Blue | AI/deep learning, Python, some systems | Leadership skills, rapid prototyping, experimentation, interviewing people | Logical, cautious, motivated | Product management skills, embedded systems, cybersecurity | Presentation skills, time management
 Kat | Blue | Graphics, VR, design | Leadership skills, time management | Flexible, introverted, patient, optimistic | Project management and presentation skills | don't have experience working on all stages of a product
 Divaa | Black/Yellow | Python, AI/ML, quick prototyping | Small-team work, international work environments | Planner, group-oriented, cautious | UI/UX research and design, security, AI/ML lifecycle | Presentation, prioritization, systems
-Neha | Blue | Systems, networking, testing | Decision making, some project management, time management | Motivated, logical, direct | Embedded systems & cybersecurity / launching attacks | AI, can be too blunt
+Neha | Blue/White | VR/AR (Unity), design, product development | Project management, decision making, managing schedules and tasks | Motivated, consistent, logical | Managing a budget, group dynamics | Sometimes impatient
 Brittany | Yellow | Python, systems design, systems security, some AI/deep learning | Facilitating groups, managing schedules and tasks | Precise, consistent, reliable, introverted, thinks of the larger picture | IoT security, applying deep learning, group dynamics, managing a budget | Can be fickle, sometimes hard to convince, introverted
 
 
